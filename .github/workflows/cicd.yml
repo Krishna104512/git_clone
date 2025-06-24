@@ -25,7 +25,4 @@ jobs:
 
       - name: Install dbt dependencies
         run: dbt deps
-
-      - name: dbt run
-        run: dbt run --profiles-dir ./
         
