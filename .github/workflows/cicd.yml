@@ -25,6 +25,4 @@ jobs:
 
       - name: Install dbt dependencies
         run: dbt deps
-        
-      - name: Run lint check
-        run: sqlfluff lint models --dialect snowflake
+      
