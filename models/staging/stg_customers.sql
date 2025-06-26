@@ -13,7 +13,7 @@ renamed as (
         ----------  ids
         id as customer_id,
 
-        ---------- text
+        ---------- text comiting 
         name as customer_name
 
     from source
