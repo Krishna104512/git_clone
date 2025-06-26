@@ -13,7 +13,7 @@ renamed as (
         ----------  ids
         id as customer_id,
 
-        ---------- text comiting 
+        ---------- text comiting for first change in git
         name as customer_name
 
     from source
